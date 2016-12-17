@@ -1,6 +1,6 @@
 # college-eats
 
-FIXME
+This was a project for my CS411 course. It is a simple web application made from pure clojure allowing the user edit, create, and delete various items. 
 
 ## Prerequisites
 
